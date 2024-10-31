@@ -1,16 +1,23 @@
-## Hi there 👋
+![Web Developer](https://res.cloudinary.com/dvaclg6kh/image/upload/v1730356188/github-header-image_h9siq7.png)
+
+### Hi there 👋, I am Mritul Aich
+#### Web Developer
+
+I work on front-end web application development. I gained experience in making little creative websites. My goal is to learn updated knowledge that will help me make those projects more dynamic. 
+
+Skills: JS / REACT / HTML / CSS / NEXT
+
+- 🔭 I’m currently working on a team project and a workshop. 
+- 🌱 I’m currently learning TypeScript. 
+- 💬 Ask me about generating ideas. 
+- 😄 Pronouns: He. 
 
 
-**MritulAich/MritulAich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MritulAich)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mritul-aich-developer//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mritulaich)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-mritul-aich.netlify.app/)  
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MritulAich)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MritulAich&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=MritulAich)  
 
