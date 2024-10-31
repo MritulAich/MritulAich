@@ -1,4 +1,4 @@
-(https://res.cloudinary.com/dvaclg6kh/image/upload/v1730356498/github-header-image_1_cmkxzc.png)
+![Web Developer](https://res.cloudinary.com/dvaclg6kh/image/upload/v1730356498/github-header-image_1_cmkxzc.png)
 
 ### Hi there 👋, I am Mritul Aich
 #### Web Developer
